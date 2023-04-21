@@ -8,5 +8,5 @@ export const poderes = [
   'Criosinese',
   'Telecinese',
   'Telepatia',
-  'Super penis',
+  'Regeneração',
 ];
