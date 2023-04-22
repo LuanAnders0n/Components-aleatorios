@@ -1,14 +1,13 @@
 import React from 'react';
 import { Container } from './styled';
 import Global from './style/global';
-
-import Npc from './components/Npc/System';
+import Ficha from './components/D&D/Ficha';
 
 const App = () => {
   return (
     <Container>
       <Global />
-      <Npc />
+      <Ficha></Ficha>
     </Container>
   );
 };
