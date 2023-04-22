@@ -2,13 +2,13 @@ import React from 'react';
 import { Container } from './styled';
 import Global from './style/global';
 
-import System from './components/System/System';
+import Npc from './components/Npc/System';
 
 const App = () => {
   return (
     <Container>
       <Global />
-      <System />
+      <Npc />
     </Container>
   );
 };
